@@ -9,8 +9,6 @@ body{
   background:#eef3f8;
 }
 
-/* Center Form */
-
 .container{
   width:350px;
   margin:100px auto;
@@ -59,8 +57,6 @@ button:hover{
   color:#1e90ff;
 }
 
-/* Dashboard */
-
 .dashboard{
   width:85%;
   margin:40px auto;
@@ -105,3 +101,4 @@ th{
 tr:nth-child(even){
   background:#f2f6fa;
 }
+
